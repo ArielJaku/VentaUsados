@@ -1,0 +1,7 @@
+#ignorar alchivos de caché
+*.AssemblyReference.cache
+obj/
+
+#ignorar configuracion de VSC
+.vscode/
+
