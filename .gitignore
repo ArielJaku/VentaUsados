@@ -7,23 +7,10 @@ obj/
 
 #ignorar archivos generados en VStudio
 
-# Archivos y carpetas generados por Visual Studio
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-*.vscode/
-*.ncb
-*.sdf
-*.cache
-*.dbmdl
-*.bak
-*.backup
-*.log
-*.pidb
-*.svclog
-
-# Archivos binarios generados por la compilación
+# Ignorar archivos de caché y compilación
+*.AssemblyReference.cache
+obj/
+bin/
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]eleases/
@@ -34,7 +21,6 @@ x86/
 [Ll]ogs/
 [Ll]og/
 [Ll]og4net/
-[Ll]ogs/
 [Tt]emp/
 [Tt]emp2/
 *.dll
@@ -50,36 +36,96 @@ x86/
 *.vsp
 *.vspscc
 *.ncb
+*.sdf
+*.cache
+*.dbmdl
+*.bak
+*.backup
+*.log
+*.pidb
+*.svclog
 
-# Archivos de configuración de dependencias
-*.nuget/
-*.nupkg
-
-# Archivos de configuración de paquetes de NuGet
-packages/
-*.csproj.user
-*.vbproj.user
-
-# Configuraciones y cachés
+# Ignorar configuración de Visual Studio
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
 *.vs/
 .vscode/
-*.vspscc
+*.csproj.user
+*.vbproj.user
 
-# Configuraciones locales de usuario
-*.config
-*.xml
-*.json
+# Ignorar archivos de configuración de NuGet
+*.nuget/
+*.nupkg
+packages/
 
-# Otros archivos temporales
+# Ignorar archivos temporales y de respaldo
 *.tmp
 *.swp
 *.swo
-
-# Archivos de respaldo de editores
 *~
 *.sw?
 
+# Ignorar archivos específicos de sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de JetBrains Rider
+.idea/
+
+# Archivos de configuración de Git
+.gitconfig
+.git/attributes
+
+# Ignorar configuración de Visual Studio Code
+.vscode/
+
+# Archivos generados por herramientas de construcción adicionales
+*.vspscc
+*.vssscc
+
+# Archivos de respaldo y configuración de editores
+*.bak
+*.tmp
+
+# Archivos de caché de herramientas y lenguajes
+*.log
+*.pidb
+*.sw?
+*.suo
+*.user
+*.userosscache
+*.vscode/
+*.vs/
+
+# Archivos generados por el entorno de desarrollo
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ncb
+*.sdf
+*.cache
+*.dbmdl
+*.bak
+*.backup
+*.log
+*.pidb
+*.svclog
+
+# Archivos específicos de sistemas operativos y editores
+.DS_Store
+Thumbs.db
+.idea/
+
+# Archivos de configuración de Git
+.gitconfig
+.git/attributes
+
+# Archivos temporales y de respaldo
+*.tmp
+*.swp
+*.swo
+*~
+*.sw?
