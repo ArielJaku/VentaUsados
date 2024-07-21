@@ -5,3 +5,81 @@ obj/
 #ignorar configuracion de VSC
 .vscode/
 
+#ignorar archivos generados en VStudio
+
+# Archivos y carpetas generados por Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vscode/
+*.ncb
+*.sdf
+*.cache
+*.dbmdl
+*.bak
+*.backup
+*.log
+*.pidb
+*.svclog
+
+# Archivos binarios generados por la compilación
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]eleases/
+[Rr]eleasesPublic/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Ll]ogs/
+[Ll]og/
+[Ll]og4net/
+[Ll]ogs/
+[Tt]emp/
+[Tt]emp2/
+*.dll
+*.exe
+*.pdb
+*.obj
+*.o
+*.lib
+*.app
+*.manifest
+*.cpl
+*.psess
+*.vsp
+*.vspscc
+*.ncb
+
+# Archivos de configuración de dependencias
+*.nuget/
+*.nupkg
+
+# Archivos de configuración de paquetes de NuGet
+packages/
+*.csproj.user
+*.vbproj.user
+
+# Configuraciones y cachés
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vs/
+.vscode/
+*.vspscc
+
+# Configuraciones locales de usuario
+*.config
+*.xml
+*.json
+
+# Otros archivos temporales
+*.tmp
+*.swp
+*.swo
+
+# Archivos de respaldo de editores
+*~
+*.sw?
+
