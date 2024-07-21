@@ -1,0 +1,32 @@
+#Estructura de proyecto X
+
+/VentaUsados
+  /Datos
+    DataContext.cs
+    Repositories/
+  /Entidades
+    Product.cs
+    User.cs
+  /Negocios
+    ProductService.cs
+    UserService.cs
+  /Presentacion
+    /Controllers
+      ProductController.cs
+      UserController.cs
+    /Views
+      /Products
+        Index.cshtml
+        Details.cshtml
+      /Users
+        Index.cshtml
+        Details.cshtml
+  /wwwroot
+    /css
+    /js
+    /images
+  /Migrations
+  appsettings.json
+  Startup.cs
+  Program.cs
+  .gitignore
