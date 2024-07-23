@@ -3,6 +3,8 @@ using Negocios;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Cache;
+using System.Reflection.Emit;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
@@ -40,7 +42,8 @@ namespace VentasGenerales
             usuario.email = txtEmail.Text;
             usuario.ciudad = int.Parse(ddlCiudad.SelectedValue);
             usuario.provincia = int.Parse(ddlProvincia.SelectedValue);
-            seg.Clave = txtClave.Text;
+            string claveHash = HashContraseña(txtClave.Text);
+            seg.Clave = claveHash;
             try
             {
                 flag = usuarioManager.RegistroUsuario(seg, usuario);

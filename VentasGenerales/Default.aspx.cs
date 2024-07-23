@@ -13,5 +13,10 @@ namespace VentasGenerales
         {
 
         }
+
+        protected void btnSesion_Click(object sender, EventArgs e)
+        {
+            Session["Id"] = null;
+        }
     }
 }

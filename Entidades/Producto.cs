@@ -20,7 +20,12 @@ namespace Entidades
 
         public decimal precio { get; set; }
 
+        public byte[] imagen1 { get; set; }
+
+        public byte[] imagen2 { get; set; }
+
         public int idUsuario { get; set; }
+
          
     }
 }

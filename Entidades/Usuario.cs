@@ -17,5 +17,6 @@ namespace Entidades
         public int provincia { get; set; }
         public string email { get; set; }
 
+
     }
 }

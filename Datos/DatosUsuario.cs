@@ -34,7 +34,7 @@ namespace Datos
             con.Close();
             return flag;
         }
-
+		//Este es un comentario
         public DataTable TraerCiudades()
         {
             string query = "select * from Ciudades";

@@ -23,11 +23,13 @@ namespace VentasGenerales
             var clave = txtCLAVE.Text;
             SeguridadUsuario usuario = new SeguridadUsuario();
             usuario.DNI = int.Parse(dni);
-            usuario.Clave = clave;
+            string claveHash = HashContraseña(clave);
+            usuario.Clave = claveHash;
             var res = usuarioManager.LoginUsuario(usuario);
             if (res != 0)
             {
                 MsgBox("El usuario existe");
+                Session["Id"] = usuario.DNI;
             }
             else
             {

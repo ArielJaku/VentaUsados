@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62582D49-9344-4A03-B439-AD02E5FA795B}|VentasGenerales\\VentasGenerales.csproj|c:\\users\\ari_j\\source\\repos\\ventausados\\ventasgenerales\\utilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62582D49-9344-4A03-B439-AD02E5FA795B}|VentasGenerales\\VentasGenerales.csproj|solutionrelative:ventasgenerales\\utilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62582D49-9344-4A03-B439-AD02E5FA795B}|VentasGenerales\\VentasGenerales.csproj|c:\\users\\ari_j\\source\\repos\\ventausados\\ventasgenerales\\registrador.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62582D49-9344-4A03-B439-AD02E5FA795B}|VentasGenerales\\VentasGenerales.csproj|solutionrelative:ventasgenerales\\registrador.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEA2302-34E1-4EFC-A840-A96262C160BD}|Datos\\Datos.csproj|c:\\users\\ari_j\\source\\repos\\ventausados\\datos\\datosusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEA2302-34E1-4EFC-A840-A96262C160BD}|Datos\\Datos.csproj|solutionrelative:datos\\datosusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEA2302-34E1-4EFC-A840-A96262C160BD}|Datos\\Datos.csproj|c:\\users\\ari_j\\source\\repos\\ventausados\\datos\\datosproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEA2302-34E1-4EFC-A840-A96262C160BD}|Datos\\Datos.csproj|solutionrelative:datos\\datosproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62582D49-9344-4A03-B439-AD02E5FA795B}|VentasGenerales\\VentasGenerales.csproj|c:\\users\\ari_j\\source\\repos\\ventausados\\ventasgenerales\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62582D49-9344-4A03-B439-AD02E5FA795B}|VentasGenerales\\VentasGenerales.csproj|solutionrelative:ventasgenerales\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62582D49-9344-4A03-B439-AD02E5FA795B}|VentasGenerales\\VentasGenerales.csproj|c:\\users\\ari_j\\source\\repos\\ventausados\\ventasgenerales\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{62582D49-9344-4A03-B439-AD02E5FA795B}|VentasGenerales\\VentasGenerales.csproj|solutionrelative:ventasgenerales\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62582D49-9344-4A03-B439-AD02E5FA795B}|VentasGenerales\\VentasGenerales.csproj|c:\\users\\ari_j\\source\\repos\\ventausados\\ventasgenerales\\registrador.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{62582D49-9344-4A03-B439-AD02E5FA795B}|VentasGenerales\\VentasGenerales.csproj|solutionrelative:ventasgenerales\\registrador.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62582D49-9344-4A03-B439-AD02E5FA795B}|VentasGenerales\\VentasGenerales.csproj|c:\\users\\ari_j\\source\\repos\\ventausados\\ventasgenerales\\cargapublicaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62582D49-9344-4A03-B439-AD02E5FA795B}|VentasGenerales\\VentasGenerales.csproj|solutionrelative:ventasgenerales\\cargapublicaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62582D49-9344-4A03-B439-AD02E5FA795B}|VentasGenerales\\VentasGenerales.csproj|c:\\users\\ari_j\\source\\repos\\ventausados\\ventasgenerales\\cargapublicaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{62582D49-9344-4A03-B439-AD02E5FA795B}|VentasGenerales\\VentasGenerales.csproj|solutionrelative:ventasgenerales\\cargapublicaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62582D49-9344-4A03-B439-AD02E5FA795B}|VentasGenerales\\VentasGenerales.csproj|c:\\users\\ari_j\\source\\repos\\ventausados\\ventasgenerales\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62582D49-9344-4A03-B439-AD02E5FA795B}|VentasGenerales\\VentasGenerales.csproj|solutionrelative:ventasgenerales\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62582D49-9344-4A03-B439-AD02E5FA795B}|VentasGenerales\\VentasGenerales.csproj|c:\\users\\ari_j\\source\\repos\\ventausados\\ventasgenerales\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{62582D49-9344-4A03-B439-AD02E5FA795B}|VentasGenerales\\VentasGenerales.csproj|solutionrelative:ventasgenerales\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678A5863-1F66-41DE-8014-1CC5284A3F55}|Entidades\\Entidades.csproj|c:\\users\\ari_j\\source\\repos\\ventausados\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{678A5863-1F66-41DE-8014-1CC5284A3F55}|Entidades\\Entidades.csproj|solutionrelative:entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatosUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\Datos\\DatosUsuario.cs",
+              "RelativeDocumentMoniker": "Datos\\DatosUsuario.cs",
+              "ToolTip": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\Datos\\DatosUsuario.cs",
+              "RelativeToolTip": "Datos\\DatosUsuario.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:33:06.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatosProducto.cs",
+              "DocumentMoniker": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\Datos\\DatosProducto.cs",
+              "RelativeDocumentMoniker": "Datos\\DatosProducto.cs",
+              "ToolTip": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\Datos\\DatosProducto.cs",
+              "RelativeToolTip": "Datos\\DatosProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T23:44:19.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\Entidades\\Producto.cs",
+              "RelativeDocumentMoniker": "Entidades\\Producto.cs",
+              "ToolTip": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\Entidades\\Producto.cs",
+              "RelativeToolTip": "Entidades\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T23:42:01.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CargaPublicaciones.aspx",
+              "DocumentMoniker": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\VentasGenerales\\CargaPublicaciones.aspx",
+              "RelativeDocumentMoniker": "VentasGenerales\\CargaPublicaciones.aspx",
+              "ToolTip": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\VentasGenerales\\CargaPublicaciones.aspx",
+              "RelativeToolTip": "VentasGenerales\\CargaPublicaciones.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-22T23:36:57.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\VentasGenerales\\Login.aspx",
+              "RelativeDocumentMoniker": "VentasGenerales\\Login.aspx",
+              "ToolTip": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\VentasGenerales\\Login.aspx",
+              "RelativeToolTip": "VentasGenerales\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-22T23:59:10.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\VentasGenerales\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "VentasGenerales\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\VentasGenerales\\Login.aspx.cs",
+              "RelativeToolTip": "VentasGenerales\\Login.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T23:59:12.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilidad.cs",
+              "DocumentMoniker": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\VentasGenerales\\Utilidad.cs",
+              "RelativeDocumentMoniker": "VentasGenerales\\Utilidad.cs",
+              "ToolTip": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\VentasGenerales\\Utilidad.cs",
+              "RelativeToolTip": "VentasGenerales\\Utilidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:18:19.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registrador.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\VentasGenerales\\Registrador.aspx.cs",
+              "RelativeDocumentMoniker": "VentasGenerales\\Registrador.aspx.cs",
+              "ToolTip": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\VentasGenerales\\Registrador.aspx.cs",
+              "RelativeToolTip": "VentasGenerales\\Registrador.aspx.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:21:19.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registrador.aspx",
+              "DocumentMoniker": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\VentasGenerales\\Registrador.aspx",
+              "RelativeDocumentMoniker": "VentasGenerales\\Registrador.aspx",
+              "ToolTip": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\VentasGenerales\\Registrador.aspx",
+              "RelativeToolTip": "VentasGenerales\\Registrador.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-23T00:21:13.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CargaPublicaciones.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\VentasGenerales\\CargaPublicaciones.aspx.cs",
+              "RelativeDocumentMoniker": "VentasGenerales\\CargaPublicaciones.aspx.cs",
+              "ToolTip": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\VentasGenerales\\CargaPublicaciones.aspx.cs",
+              "RelativeToolTip": "VentasGenerales\\CargaPublicaciones.aspx.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T23:37:00.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\VentasGenerales\\Default.aspx",
+              "RelativeDocumentMoniker": "VentasGenerales\\Default.aspx",
+              "ToolTip": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\VentasGenerales\\Default.aspx",
+              "RelativeToolTip": "VentasGenerales\\Default.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-23T00:07:33.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\VentasGenerales\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "VentasGenerales\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\ari_j\\source\\repos\\VentaUsados\\VentasGenerales\\Default.aspx.cs",
+              "RelativeToolTip": "VentasGenerales\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:07:54.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

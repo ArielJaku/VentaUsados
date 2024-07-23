@@ -4,3 +4,9 @@ C:\Users\ari_j\source\repos\VentasGenerales\Entidades\obj\Debug\Entidades.csproj
 C:\Users\ari_j\source\repos\VentasGenerales\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\ari_j\source\repos\VentasGenerales\Entidades\obj\Debug\Entidades.dll
 C:\Users\ari_j\source\repos\VentasGenerales\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ari_j\source\repos\VentaUsados\Entidades\bin\Debug\Entidades.dll
+C:\Users\ari_j\source\repos\VentaUsados\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ari_j\source\repos\VentaUsados\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\ari_j\source\repos\VentaUsados\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ari_j\source\repos\VentaUsados\Entidades\obj\Debug\Entidades.dll
+C:\Users\ari_j\source\repos\VentaUsados\Entidades\obj\Debug\Entidades.pdb
